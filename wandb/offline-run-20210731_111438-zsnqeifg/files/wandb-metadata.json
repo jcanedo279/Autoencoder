@@ -1,0 +1,26 @@
+{
+    "os": "macOS-11.4-x86_64-i386-64bit",
+    "python": "3.9.5",
+    "heartbeatAt": "2021-07-31T15:14:41.225369",
+    "startedAt": "2021-07-31T15:14:38.663497",
+    "docker": null,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9003",
+        "--control=9001",
+        "--hb=9000",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"34056dc4-b1bc-40a8-8893-e6b08a13e557\"",
+        "--shell=9002",
+        "--transport=\"tcp\"",
+        "--iopub=9004",
+        "--f=/var/folders/5p/cl9j8ydx2qq46ml3frqzv3tr0000gn/T/tmp-340660Wugcxs3WFPB.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "Jorges-MacBook-Pro.local",
+    "username": "jorgecanedo",
+    "executable": "/Users/jorgecanedo/Desktop/autoencoder_mnist/venv/bin/python"
+}
